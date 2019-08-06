@@ -33,7 +33,7 @@ if (items[3] = "item3"){
     console.log("found it")
 }
 else{
-    console.log("it ain't here chief")
+    console.log("it ain't here")
 }
 }
 check()

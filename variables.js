@@ -3,6 +3,6 @@
 
 const meme = 33
 
-console.log( "the number of meme images on my PC is" ,meme ,"and i'm ashamed")
+console.log( "the number of images on my PC is" ,meme ,)
 
-console.log( `the number of meme images on my PC is ${meme} and i'm ashamed`)
+console.log( `the number of images on my PC is ${meme}`)

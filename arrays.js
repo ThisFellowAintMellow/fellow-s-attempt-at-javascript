@@ -16,11 +16,11 @@
 */
 
 var list =[
-    "P***hub",
-    "YouTube",
-    "Newgrounds"
+    "item1",
+    "item2",
+    "item3"
 ]
-list.push ("Read-it", "4Chins")
+list.push ("item4", "item5")
 list.shift()
 
 console.log(list)

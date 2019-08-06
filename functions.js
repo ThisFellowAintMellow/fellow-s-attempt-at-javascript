@@ -57,4 +57,4 @@ const takeOrder = (topping, toppingTwo, toppingThree, toppingFour, toppingFive) 
     console.log(`Order ${orderCount}; Pizza with ${topping}, ${toppingTwo}, ${toppingThree}, ${toppingFour} and ${toppingFive}`)
     orderCount++
 }
-takeOrder("Black Plague","Dead Rats", "Dead memes", "Big Smoke's order", "a dead Wasp")
+takeOrder("topping1","topping2", "topping 3", "topping 4", "topping 5")

@@ -38,7 +38,7 @@ else{
     console.log("bruh you mis-typed you can't be younger than 0. what are you, a foetus?")
 }
 
-var passWord = ("dontletyourmemesbedreams")
+var passWord = ("password12345678910")
 var passWordLength = passWord .length
 
 if (passWordLength <8){
@@ -81,7 +81,7 @@ else{
 
 var time = 9
 var placeOfWork = "wendy's"
-var home = "no. 10 stupid street"
+var home = "no. 10 street street"
 
 if (time == 0 || time >12){
     console.log("illegal number.")
